@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Male" },
+  { "id": 2, "name": "Female" },
+  { "id": 3, "name": "Agender" },
+  { "id": 4, "name": "Bigender" },
+  { "id": 5, "name": "Gender Fluid" },
+  { "id": 6, "name": "Gender Variant" },
+  { "id": 7, "name": "Non-Binary" },
+  { "id": 8, "name": "Transgender" },
+  { "id": 9, "name": "Transgender Man" },
+  { "id": 10, "name": "Transgender Woman" }
+]

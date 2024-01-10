@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Sixth form" },
+  { "id": 2, "name": "Technical college" },
+  { "id": 3, "name": "I'm an undergrad" },
+  { "id": 4, "name": "Undergraduate degree" },
+  { "id": 5, "name": "I'm an postgrad" },
+  { "id": 6, "name": "Postgraduate degree" }
+]

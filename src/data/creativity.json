@@ -1,0 +1,11 @@
+[
+    { "id": 1, "name": "Art", "selected": false },
+    { "id": 2, "name": "Photography", "selected": false },
+    { "id": 3, "name": "Design", "selected": false },
+    { "id": 4, "name": "Dancing", "selected": false },
+    { "id": 5, "name": "Singing", "selected": false },
+    { "id": 6, "name": "Crafts", "selected": false },
+    { "id": 7, "name": "Writing", "selected": false },
+    { "id": 8, "name": "Knitting", "selected": false },
+    { "id": 9, "name": "Making videos", "selected": false }
+  ]

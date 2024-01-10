@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Frequently" },
+  { "id": 2, "name": "Socially" },
+  { "id": 3, "name": "Rarely" },
+  { "id": 4, "name": "Never" },
+  { "id": 5, "name": "Sober" }
+]

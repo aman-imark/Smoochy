@@ -1,0 +1,11 @@
+[
+  { "id": 1, "name": "Badminton" },
+  { "id": 2, "name": "Yoga" },
+  { "id": 3, "name": "Gym" },
+  { "id": 4, "name": "Tennis" },
+  { "id": 5, "name": "Running" },
+  { "id": 6, "name": "Football" },
+  { "id": 7, "name": "Golf" },
+  { "id": 8, "name": "Cricket" },
+  { "id": 9, "name": "Basketball" }
+]

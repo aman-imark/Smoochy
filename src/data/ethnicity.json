@@ -1,0 +1,14 @@
+[
+  { "id": 1, "name": "African American" },
+  { "id": 2, "name": "Asian" },
+  { "id": 3, "name": "Black" },
+  { "id": 4, "name": "White Caucasian" },
+  { "id": 5, "name": "White British" },
+  { "id": 6, "name": "Indian" },
+  { "id": 7, "name": "Mixed" },
+  { "id": 8, "name": "Middle Eastern" },
+  { "id": 9, "name": "Native American" },
+  { "id": 10, "name": "Prefer not to say" },
+  { "id": 11, "name": "Other" }
+]
+

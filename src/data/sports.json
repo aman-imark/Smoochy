@@ -1,0 +1,11 @@
+[
+    { "id": 1, "name": "Badminton", "selected": false },
+    { "id": 2, "name": "Yoga", "selected": false },
+    { "id": 3, "name": "Gym", "selected": false },
+    { "id": 4, "name": "Tennis", "selected": false },
+    { "id": 5, "name": "Running", "selected": false },
+    { "id": 6, "name": "Football", "selected": false },
+    { "id": 7, "name": "Golf", "selected": false },
+    { "id": 8, "name": "Cricket", "selected": false },
+    { "id": 9, "name": "Basketball", "selected": false }
+  ]

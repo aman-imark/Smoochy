@@ -1,0 +1,11 @@
+[
+  { "id": 1, "name": "Art" },
+  { "id": 2, "name": "Photography" },
+  { "id": 3, "name": "Design" },
+  { "id": 4, "name": "Dancing" },
+  { "id": 5, "name": "Singing" },
+  { "id": 6, "name": "Crafts" },
+  { "id": 7, "name": "Writing" },
+  { "id": 8, "name": "Knitting" },
+  { "id": 9, "name": "Makng videos" }
+]
